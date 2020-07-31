@@ -1,0 +1,16 @@
+{
+    "name": "siler-examples/issue-354",
+    "description": "Trying to reproduce the reported error at issue 354.",
+    "type": "project",
+    "require": {
+        "leocavalcante/siler": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leocavalcante",
+            "email": "lc@leocavalcante.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
