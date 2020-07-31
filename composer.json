@@ -3,7 +3,7 @@
     "description": "Trying to reproduce the reported error at issue 354.",
     "type": "project",
     "require": {
-        "leocavalcante/siler": "^1.7"
+        "leocavalcante/siler": "^1.7.4"
     },
     "license": "MIT",
     "authors": [
